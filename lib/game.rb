@@ -13,5 +13,8 @@ class Game
     [2,4,6]
     ]
   
+  def initialize(player_1 = Players::Human)
+    
+  end 
  
 end 
